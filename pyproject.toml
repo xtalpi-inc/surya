@@ -12,9 +12,6 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-transformers = "^4.51.2"
-torch = "^2.7.0"
 pydantic = "^2.5.3"
 pydantic-settings = "^2.1.0"
 python-dotenv = "^1.0.0"
